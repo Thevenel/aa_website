@@ -10,9 +10,12 @@
 
   </head>
   <body>
-    <div class=" overlay container vh-100 d-flex justify-content-center align-items-center">
+    <div class=" overlay container vh-100 d-flex justify-content-center align-items-center flex-column">
         
-            <h1 class="display-1 text-white">Coming soon</h1>
+            <h1 class="display-1">Coming soon</h1>
+            <p class="lead">
+                Check our Youtube videos <a href="https://www.youtube.com/@AnnouAprann">Here</a>
+            </p>
        
     </div>
     
