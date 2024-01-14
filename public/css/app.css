@@ -1,0 +1,9 @@
+
+@import '/node_modules/bootstrap/scss/bootstrap.scss';
+
+
+body{
+    background: url('https://cdn.pixabay.com/photo/2020/04/08/16/32/keyboard-5017973_1280.jpg');
+    background-position: center;
+}
+
